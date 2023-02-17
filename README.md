@@ -1,5 +1,5 @@
 
-## Hi there! My name is Ruslan Popkov. I`m beginner QA Engineer from Russia, Saint Petersburg.
+## Hi there! My name is Ruslan Popkov. I`m Frontend Developer from Russia, Saint Petersburg.
 
 ## Education
 
@@ -17,13 +17,9 @@ Information Technology (Sep 2017 - Jul 2021)
 
 ## My projects
 
-Bugs on Palen Music Center site [LINK to bugs](https://drive.google.com/file/d/11KWsKnH_420Rxh8NlXFWrKwKv2wbrNiT/view?usp=share_link)
-
-Checklist for Web-App testing sample [LINK to checklist](https://docs.google.com/spreadsheets/d/1h14w7WYHAbc57gtkAlbUoN7JQrp44BAZ/edit?usp=share_link&ouid=100048451314049502837&rtpof=true&sd=true)
 
 ### Languages and tools
 
-![Postman](https://img.shields.io/badge/-Postman-008037?style=for-the-badge&logo=Postman)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-008037?style=for-the-badge&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-008037?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-008037?style=for-the-badge&logo=CSS3)
@@ -31,7 +27,6 @@ Checklist for Web-App testing sample [LINK to checklist](https://docs.google.com
 
 ### Follow me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-008037?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ruslan-popkov-381140253/)
 [![Telegram](https://img.shields.io/badge/-Telegram-008037?style=for-the-badge&logo=Telegram)](https://t.me/reload_315/)
 
 ### Stats
