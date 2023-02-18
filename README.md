@@ -17,7 +17,7 @@ Information Technology (Sep 2017 - Jul 2021)
 
 ## My projects
 
-Simple HTML/CSS page [LINK to project](popkovrs.github.io/Simple-HTML-CSS-page/)
+Simple HTML/CSS page [LINK to project](https://popkovrs.github.io/Simple-HTML-CSS-page/)
 /[repo](https://github.com/PopkovRS/Simple-HTML-CSS-page)
 
 Adaptive Landing Page [LINK to project](https://popkovrs.github.io/Landing-Page-Layout-Adaptive-/)
