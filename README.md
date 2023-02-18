@@ -19,6 +19,17 @@ Information Technology (Sep 2017 - Jul 2021)
 
 Simple HTML/CSS page [LINK to project](popkovrs.github.io/Simple-HTML-CSS-page/)
 /[repo](https://github.com/PopkovRS/Simple-HTML-CSS-page)
+Adaptive Landing Page [LINK to project](https://popkovrs.github.io/Landing-Page-Layout-Adaptive-/)
+/[repo](https://github.com/PopkovRS/Landing-Page-Layout-Adaptive-)
+Adaptive JS Slider [LINK to project](https://popkovrs.github.io/Adaptive-JS-Slider/)
+/[repo](https://github.com/PopkovRS/Adaptive-JS-Slider)
+Clock App [LINK to project](https://popkovrs.github.io/JS-Clock-App/)
+/[repo](https://github.com/PopkovRS/JS-Clock-App)
+Counter App  [LINK to project](https://popkovrs.github.io/Counter-App/)/[repo](https://github.com/PopkovRS/Counter-App)
+To Do App [LINK to project](https://popkovrs.github.io/To-Do-App/)/[repo](https://github.com/PopkovRS/To-Do-App)
+Pop-Up Modal Window [LINK to project](https://popkovrs.github.io/Pop-Up-Modal-Window-JS/)/[repo]
+(https://github.com/PopkovRS/Pop-Up-Modal-Window-JS)
+
 
 ### Languages and tools
 
