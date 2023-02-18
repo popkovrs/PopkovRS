@@ -33,8 +33,7 @@ Counter App  [LINK to project](https://popkovrs.github.io/Counter-App/)/[repo](h
 
 To Do App [LINK to project](https://popkovrs.github.io/To-Do-App/)/[repo](https://github.com/PopkovRS/To-Do-App)
 
-Pop-Up Modal Window [LINK to project](https://popkovrs.github.io/Pop-Up-Modal-Window-JS/)/[repo]
-(https://github.com/PopkovRS/Pop-Up-Modal-Window-JS)
+Pop-Up Modal Window [LINK to project](https://popkovrs.github.io/Pop-Up-Modal-Window-JS/)/[repo](https://github.com/PopkovRS/Pop-Up-Modal-Window-JS)
 
 
 ### Languages and tools
