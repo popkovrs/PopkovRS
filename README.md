@@ -17,17 +17,13 @@ Information Technology (Sep 2017 - Jul 2021)
 
 ## My projects
 
-Simple HTML/CSS page [LINK to project](https://popkovrs.github.io/Simple-HTML-CSS-page/)
-/[repo](https://github.com/PopkovRS/Simple-HTML-CSS-page)
+Simple HTML/CSS page [LINK to project](https://popkovrs.github.io/Simple-HTML-CSS-page/)/[repo](https://github.com/PopkovRS/Simple-HTML-CSS-page)
 
-Adaptive Landing Page [LINK to project](https://popkovrs.github.io/Landing-Page-Layout-Adaptive-/)
-/[repo](https://github.com/PopkovRS/Landing-Page-Layout-Adaptive-)
+Adaptive Landing Page [LINK to project](https://popkovrs.github.io/Landing-Page-Layout-Adaptive-/)/[repo](https://github.com/PopkovRS/Landing-Page-Layout-Adaptive-)
 
-Adaptive JS Slider [LINK to project](https://popkovrs.github.io/Adaptive-JS-Slider/)
-/[repo](https://github.com/PopkovRS/Adaptive-JS-Slider)
+Adaptive JS Slider [LINK to project](https://popkovrs.github.io/Adaptive-JS-Slider/)/[repo](https://github.com/PopkovRS/Adaptive-JS-Slider)
 
-Clock App [LINK to project](https://popkovrs.github.io/JS-Clock-App/)
-/[repo](https://github.com/PopkovRS/JS-Clock-App)
+Clock App [LINK to project](https://popkovrs.github.io/JS-Clock-App/)/[repo](https://github.com/PopkovRS/JS-Clock-App)
 
 Counter App  [LINK to project](https://popkovrs.github.io/Counter-App/)/[repo](https://github.com/PopkovRS/Counter-App)
 
