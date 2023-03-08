@@ -1,5 +1,5 @@
-![logo](https://raw.githubusercontent.com/PopkovRS/PopkovRS/main/images/logo.png)
-## Hi there! My name is Ruslan Popkov. I`m Frontend Developer from Russia, Saint Petersburg.
+
+## Hi there! My name is Ruslan Popkov. I`m Machine Learning Engineer & Frontend Developer from Russia, Saint Petersburg.
 
 ## Education
 
@@ -15,7 +15,7 @@ Information Technology (Sep 2017 - Jul 2021)
 
 [Lectures on modern web-technologies (NOU INTUIT)](https://intuit.ru/verifydiplomas/101370484)
 
-## My projects
+## My projects(frontend)
 
 Simple HTML/CSS page [LINK to project](https://popkovrs.github.io/Simple-HTML-CSS-page/)/[repo](https://github.com/PopkovRS/Simple-HTML-CSS-page)
 
