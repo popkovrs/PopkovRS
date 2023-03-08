@@ -9,7 +9,6 @@ Information Technology (Sep 2017 - Jul 2021)
 
 ## Certificates
 
-[EF SET English Certificate (B1 Intermediate)](https://www.efset.org/cert/CzwN3J)
 
 [Construction of business processes of an intelligent enterprise (Peter the Great St.Petersburg Polytechnic University)](https://drive.google.com/drive/folders/1uNuoOhL0IvflkIQOzrBRqytAyVjsZds_?usp=sharing)
 
