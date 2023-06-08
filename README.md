@@ -14,7 +14,7 @@ Information Technology (Sep 2017 - Jul 2021)
 
 [Lectures on modern web-technologies (NOU INTUIT)](https://intuit.ru/verifydiplomas/101370484)
 
-## My projects(frontend)
+## My projects
 
 ### Frontend
 
