@@ -16,6 +16,10 @@ Information Technology (Sep 2017 - Jul 2021)
 
 ## My projects
 
+### Fullstack
+
+DALL-E Clone Image Generator [LINK to repo](https://github.com/popkovrs/dalle_clone)
+
 ### Frontend
 
 Simple Product page [LINK to project](https://popkovrs.github.io/Simple-HTML-CSS-page/)/[repo](https://github.com/PopkovRS/Simple-HTML-CSS-page)
