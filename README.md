@@ -1,5 +1,5 @@
 
-## Hi there! My name is Ruslan Popkov. I`m Machine Learning Engineer & Frontend Developer from Russia, Saint Petersburg.
+## Hi there! My name is Ruslan Popkov. I`m Machine Learning Engineer & Full-stack Developer from Russia, Saint Petersburg.
 
 ## Education
 
@@ -24,12 +24,7 @@ Adaptive Landing Page [LINK to project](https://popkovrs.github.io/Landing-Page-
 
 Adaptive JS Slider [LINK to project](https://popkovrs.github.io/Adaptive-JS-Slider/)/[repo](https://github.com/PopkovRS/Adaptive-JS-Slider)
 
-### Languages and tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-008037?style=for-the-badge&logo=JavaScript)
-![HTML5](https://img.shields.io/badge/-HTML5-008037?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-008037?style=for-the-badge&logo=CSS3)
-![GitHub](https://img.shields.io/badge/-GitHub-008037?style=for-the-badge&logo=GitHub)
 
 ### Follow me
 
