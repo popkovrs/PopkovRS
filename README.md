@@ -1,5 +1,5 @@
 
-## Hi there! My name is Ruslan Popkov. I`m Machine Learning Engineer & Full-stack Developer from Russia, Saint Petersburg.
+## Hi there! My name is Ruslan Popkov. I`m  Full-stack Developer/QA/ML Engineer from Canada, Montreal.
 
 ## Education
 
