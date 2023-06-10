@@ -1,5 +1,5 @@
 
-## Hi there! My name is Ruslan Popkov. I`m  Full-stack Developer/QA/Data Scientist from Canada, Montreal.
+## Hi there! My name is Ruslan Popkov. I`m  Full-stack Developer/Machine Learning Engineer/QA from Canada, Montreal.
 
 ## Education
 
