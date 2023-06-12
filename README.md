@@ -17,7 +17,7 @@ Information Technology (Sep 2017 - Jul 2021)
 ## My projects
 
 ### Machine Learning 
-Detect digit from user drawing [LINK to repo](https://github.com/popkovrs/number-detection-by-user-drawing-tf) [TensorFlow, OpenCV]
+Detect digit from user drawing [LINK to repo](https://github.com/popkovrs/digit-detection-by-user-drawing-tf) [TensorFlow, OpenCV]
 
 Emotion tone of book reviews [LINK to repo](https://github.com/popkovrs/emotion-tone-of-book-reviews) [sklearn]
 
