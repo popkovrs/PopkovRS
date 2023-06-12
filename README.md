@@ -19,6 +19,8 @@ Information Technology (Sep 2017 - Jul 2021)
 ### Machine Learning 
 Detect number from user drawing [LINK to repo](https://github.com/popkovrs/number-detection-by-user-drawing-tf) [TensorFlow, OpenCV]
 
+Emotion tone of book reviews [LINK to repo](https://github.com/popkovrs/emotion-tone-of-book-reviews) [sklearn]
+
 ### Fullstack
 
 DALL-E Clone Image Generator [LINK to repo](https://github.com/popkovrs/dalle_clone) [Node.js, Express.js, MongoDB, and React.js]
