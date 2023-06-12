@@ -16,9 +16,12 @@ Information Technology (Sep 2017 - Jul 2021)
 
 ## My projects
 
+### Machine Learning 
+Detect number from user drawing [LINK to repo](https://github.com/popkovrs/number-detection-by-user-drawing-tf) [TensorFlow, OpenCV]
+
 ### Fullstack
 
-DALL-E Clone Image Generator [LINK to repo](https://github.com/popkovrs/dalle_clone) Stack: [Node.js, Express.js, MongoDB, and React.js]
+DALL-E Clone Image Generator [LINK to repo](https://github.com/popkovrs/dalle_clone) [Node.js, Express.js, MongoDB, and React.js]
 
 ### Frontend
 
