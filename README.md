@@ -19,7 +19,9 @@ Information Technology (Sep 2017 - Jul 2021)
 ### QA 
 
 Basic queries to dummy-api [LINK to repo](https://github.com/popkovrs/postman-dummy-api) [Postman]
+
 Checklist template [LINK to repo](https://github.com/popkovrs/checklist-template)
+
 Bug reports for online guitar store [LINK to repo](https://github.com/popkovrs/bug-reports)
 
 ### Machine Learning 
