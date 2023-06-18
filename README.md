@@ -1,5 +1,5 @@
 
-## Hi there! My name is Ruslan Popkov. I`m  Machine Learning Engineer/Full-stack Developer/QA Engineer from Canada, Montreal.
+## Hi there! My name is Ruslan Popkov. I`m  Machine Learning Engineer/Full-stack Developer/QA Automation Engineer from Canada, Montreal.
 
 ## Education
 
@@ -16,6 +16,12 @@ Information Technology (Sep 2017 - Jul 2021)
 
 ## My projects
 
+### QA 
+
+Basic queries to dummy-api [LINK to repo](https://github.com/popkovrs/postman-dummy-api) [Postman]
+Checklist template [LINK to repo](https://github.com/popkovrs/checklist-template)
+Bug reports for online guitar store [LINK to repo](https://github.com/popkovrs/bug-reports)
+
 ### Machine Learning 
 Detect digit from user drawing [LINK to repo](https://github.com/popkovrs/digit-detection-by-user-drawing-tf) [TensorFlow, OpenCV]
 
@@ -31,7 +37,7 @@ Simple Product page [LINK to project](https://popkovrs.github.io/Simple-HTML-CSS
 
 Adaptive Landing Page [LINK to project](https://popkovrs.github.io/Landing-Page-Layout-Adaptive-/)/[repo](https://github.com/PopkovRS/Landing-Page-Layout-Adaptive-)
 
-Adaptive JS Slider [LINK to project](https://popkovrs.github.io/Adaptive-JS-Slider/)/[repo](https://github.com/PopkovRS/Adaptive-JS-Slider)
+Adaptive JS Slider [LINK to project](https://popkovrs.github.io/Adaptive-JS-Slider/)/[repo](https://github.com/PopkovRS/Adaptive-JS-Slider) 
 
 
 
