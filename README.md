@@ -1,5 +1,5 @@
 
-## Hi there! My name is Ruslan Popkov. I`m  QA Automation Engineer/Full-stack Developer/Machine Learning Engineerfrom Canada, Montreal.
+## Hi there! My name is Ruslan Popkov. I`m  QA Automation Engineer/Full-stack Developer/Machine Learning Engineer from Canada, Montreal.
 
 ## Education
 
