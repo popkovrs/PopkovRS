@@ -18,6 +18,8 @@ Information Technology (Sep 2017 - Jul 2021)
 
 ### QA 
 
+Automation YouTube Video Player [LINK to repo](https://github.com/popkovrs/youtube_player_automation) [Python, Selenium]
+
 Automation Yahoo registration form [LINK to repo](https://github.com/popkovrs/py-selenium-automation-yahoo-form) [Python, Selenium]
 
 Basic queries to dummy-api [LINK to repo](https://github.com/popkovrs/postman-dummy-api) [Postman]
