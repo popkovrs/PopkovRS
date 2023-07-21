@@ -1,5 +1,5 @@
 
-## Hi there! My name is Ruslan Popkov. I`m  Frontend Developer/Machine Learning Engineer from Canada, Montreal.
+## Hi there! My name is Ruslan Popkov. I`m  Frontend Developer from Canada, Montreal.
 
 ## Education
 
@@ -32,6 +32,8 @@ Adaptive JS Slider [LINK to project](https://popkovrs.github.io/Adaptive-JS-Slid
 
 ### Machine Learning 
 Detect digit from user drawing [LINK to repo](https://github.com/popkovrs/digit-detection-by-user-drawing-tf) [TensorFlow, OpenCV]
+
+### Data Science
 
 Emotion tone of book reviews [LINK to repo](https://github.com/popkovrs/emotion-tone-of-book-reviews) [sklearn]
 
