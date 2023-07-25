@@ -5,14 +5,16 @@
 
 Moscow Power Engineering Institute (Technical University)
 Bachelor's degree
-Information Technology (Sep 2017 - Jul 2021)
+Computer Science (Sep 2017 - Jul 2021)
+
+Bauman Moscow State Technical University 
+Computer Science (Sep 2016 - Jul 2017)
 
 ## Certificates
 
 
 [Construction of business processes of an intelligent enterprise (Peter the Great St.Petersburg Polytechnic University)](https://drive.google.com/drive/folders/1uNuoOhL0IvflkIQOzrBRqytAyVjsZds_?usp=sharing)
 
-[Lectures on modern web-technologies (NOU INTUIT)](https://intuit.ru/verifydiplomas/101370484)
 
 ## My projects
 
@@ -23,7 +25,6 @@ DALL-E Clone Image Generator [LINK to repo](https://github.com/popkovrs/dalle_cl
 
 ### Frontend
 
-Simple Product page [LINK to project](https://popkovrs.github.io/Simple-HTML-CSS-page/)/[repo](https://github.com/PopkovRS/Simple-HTML-CSS-page)
 
 Adaptive Landing Page [LINK to project](https://popkovrs.github.io/Landing-Page-Layout-Adaptive-/)/[repo](https://github.com/PopkovRS/Landing-Page-Layout-Adaptive-)
 
@@ -36,20 +37,6 @@ Detect digit from user drawing [LINK to repo](https://github.com/popkovrs/digit-
 ### Data Science
 
 Emotion tone of book reviews [LINK to repo](https://github.com/popkovrs/emotion-tone-of-book-reviews) [sklearn]
-
-
-### QA 
-
-Automation YouTube Video Player [LINK to repo](https://github.com/popkovrs/youtube_player_automation) [Python, Selenium]
-
-Automation Yahoo registration form [LINK to repo](https://github.com/popkovrs/py-selenium-automation-yahoo-form) [Python, Selenium]
-
-Basic queries to dummy-api [LINK to repo](https://github.com/popkovrs/postman-dummy-api) [Postman]
-
-Checklist template [LINK to repo](https://github.com/popkovrs/checklist-template)
-
-Bug reports for online guitar store [LINK to repo](https://github.com/popkovrs/bug-reports)
-
 
 
 
