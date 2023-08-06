@@ -31,8 +31,6 @@ Adaptive Landing Page [LINK to project](https://popkovrs.github.io/Landing-Page-
 Adaptive JS Slider [LINK to project](https://popkovrs.github.io/Adaptive-JS-Slider/)/[repo](https://github.com/PopkovRS/Adaptive-JS-Slider) 
 
 
-### Machine Learning 
-Detect digit from user drawing [LINK to repo](https://github.com/popkovrs/digit-detection-by-user-drawing-tf) [TensorFlow, OpenCV]
 
 ### Data Science
 
