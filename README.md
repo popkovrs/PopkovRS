@@ -19,14 +19,13 @@ Computer Science (Sep 2016 - Jul 2017)
 ## My projects
 
 
-### Fullstack
+### Web
 
-DALL-E Clone Image Generator [LINK to repo](https://github.com/popkovrs/dalle_clone) [Node.js, Express.js, MongoDB, and React.js]
+AI Text Summarizer [Link](https://venerable-gaufre-f1d5b8.netlify.app/) [React, Redux]
 
-### Frontend
+DALL-E Clone Image Generator [Link to repo](https://github.com/popkovrs/dalle_clone) [Node.js, Express.js, MongoDB, and React.js]
 
-
-Adaptive JS Slider [LINK to project](https://popkovrs.github.io/Adaptive-JS-Slider/)/[repo](https://github.com/PopkovRS/Adaptive-JS-Slider) 
+Adaptive JS Slider [Link to project](https://popkovrs.github.io/Adaptive-JS-Slider/)/[repo](https://github.com/PopkovRS/Adaptive-JS-Slider) 
 
 
 
