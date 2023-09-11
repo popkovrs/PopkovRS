@@ -26,8 +26,6 @@ DALL-E Clone Image Generator [LINK to repo](https://github.com/popkovrs/dalle_cl
 ### Frontend
 
 
-Adaptive Landing Page [LINK to project](https://popkovrs.github.io/Landing-Page-Layout-Adaptive-/)/[repo](https://github.com/PopkovRS/Landing-Page-Layout-Adaptive-)
-
 Adaptive JS Slider [LINK to project](https://popkovrs.github.io/Adaptive-JS-Slider/)/[repo](https://github.com/PopkovRS/Adaptive-JS-Slider) 
 
 
