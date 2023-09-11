@@ -31,7 +31,7 @@ Adaptive JS Slider [Link to project](https://popkovrs.github.io/Adaptive-JS-Slid
 
 ### Data Science
 
-Emotion tone of book reviews [LINK to repo](https://github.com/popkovrs/emotion-tone-of-book-reviews) [sklearn]
+Emotion tone of book reviews [Link to repo](https://github.com/popkovrs/emotion-tone-of-book-reviews) [sklearn]
 
 
 
