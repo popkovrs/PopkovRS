@@ -33,7 +33,7 @@ Emotion tone of book reviews [Link to repo](https://github.com/popkovrs/emotion-
 
 ### Follow me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-008037?style=for-the-badge&logo=Telegram)](https://t.me/reload_315/)
+[![Telegram](https://img.shields.io/badge/-Telegram-008037?style=for-the-badge&logo=Telegram)](https://t.me/popwebca/)
 
 ### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PopkovRS)](https://git.io/streak-stats)
