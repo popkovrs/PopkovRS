@@ -21,6 +21,8 @@ Computer Science (Sep 2016 - Jul 2017)
 
 ### Web
 
+Sneakers Shop Landing [Link](https://6510c060cb64f62714b9facb--singular-fudge-579552.netlify.app/)  [React, Tailwind]
+
 AI Text Summarizer [Link](https://venerable-gaufre-f1d5b8.netlify.app/) [React, Redux]
 
 DALL-E Clone Image Generator [Link to repo](https://github.com/popkovrs/dalle_clone) [Node.js, Express.js, MongoDB, and React.js]
