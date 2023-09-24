@@ -21,7 +21,7 @@ Computer Science (Sep 2016 - Jul 2017)
 
 ### Web
 
-Sneakers Shop Landing [Link](https://6510c060cb64f62714b9facb--singular-fudge-579552.netlify.app/)  [React, Tailwind]
+Sneakers Shop Landing [Link]([https://6510c060cb64f62714b9facb--singular-fudge-579552.netlify.app/](https://6510ca725d40e02ed83c4a9a--statuesque-frangipane-7ab6d8.netlify.app/))  [React, Tailwind]
 
 AI Text Summarizer [Link](https://venerable-gaufre-f1d5b8.netlify.app/) [React, Redux]
 
