@@ -16,7 +16,7 @@ Computer Science (Sep 2016 - Jul 2017)
 [Construction of business processes of an intelligent enterprise (Peter the Great St.Petersburg Polytechnic University)](https://drive.google.com/drive/folders/1uNuoOhL0IvflkIQOzrBRqytAyVjsZds_?usp=sharing)
 
 
-## My projects
+## Pet projects
 
 
 ### Web
