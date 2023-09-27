@@ -1,5 +1,5 @@
 
-## Hi there! My name is Ruslan (Daniil) Popkov. I`m  Frontend Developer from Canada, Montreal.
+## Hi there! My name is Ruslan (Daniil) Popkov. I`m  Full Stack Developer from Canada, Montreal.
 
 ## Education
 
