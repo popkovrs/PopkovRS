@@ -1,5 +1,5 @@
 
-## Hi there! My name is Ruslan (Daniil) Popkov. I`m a Web Developer.
+## Hi there! My name is Ruslan Popkov. I'm a Software Engineer based in Montreal, QC, Canada.
 
 ## Education
 
