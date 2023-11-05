@@ -21,11 +21,13 @@ Computer Science (Sep 2016 - Jul 2017)
 
 ### Web
 
-Sneakers Shop Landing [Link](https://statuesque-frangipane-7ab6d8.netlify.app/)  [React, Tailwind]
+Full Stack Ticket Shop [Link](https://next-ecom-app-three.vercel.app/)/[Repo](https://github.com/popkovrs/next-ecom-app)  [Next + Stripe + Sanity]
 
-AI Text Summarizer [Link](https://venerable-gaufre-f1d5b8.netlify.app/) [React, Redux]
+Sneakers Shop Landing [Link](https://statuesque-frangipane-7ab6d8.netlify.app/)  [React + Tailwind]
 
-DALL-E Clone Image Generator [Link to repo](https://github.com/popkovrs/dalle_clone) [Node.js, Express.js, MongoDB, and React.js]
+AI Text Summarizer [Link](https://venerable-gaufre-f1d5b8.netlify.app/) [React + Redux]
+
+DALL-E Clone Image Generator [Link to repo](https://github.com/popkovrs/dalle_clone) [Node.js + Express.js + MongoDB + React.js]
 
 ### Data Science
 
