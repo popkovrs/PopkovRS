@@ -23,7 +23,7 @@ Computer Science (Sep 2016 - Jul 2017)
 
 Full Stack Ticket Shop [Link](https://next-ecom-app-three.vercel.app/)/[Repo](https://github.com/popkovrs/next-ecom-app)  [Next + Stripe + Sanity]
 
-Sneakers Shop Landing [Link](https://statuesque-frangipane-7ab6d8.netlify.app/)  [React + Tailwind]
+Sneakers Shop Landing [Link](https://statuesque-frangipane-7ab6d8.netlify.app/)  [React + Tailwind / TypeScript]
 
 AI Text Summarizer [Link](https://venerable-gaufre-f1d5b8.netlify.app/) [React + Redux]
 
