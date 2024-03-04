@@ -21,7 +21,10 @@ Computer Science (Sep 2016 - Jul 2017)
 
 ### Web
 
-Full Stack Ticket Shop [Link](https://next-ecom-app-three.vercel.app/)/[Repo](https://github.com/popkovrs/next-ecom-app)  [Next + Stripe + Sanity]
+
+Order System Microservices [Repo](https://github.com/popkovrs/microservices-java)  [Java + Spring Boot 3 + Kafka + MySQL + MongoDB]
+
+Full Stack Ticket Shop [Link](https://next-ecom-app-three.vercel.app/)/[Repo](https://github.com/popkovrs/next-ecom-app)  [Next + Stripe + TypeScript]
 
 Sneakers Shop Landing [Link](https://statuesque-frangipane-7ab6d8.netlify.app/)  [React + Tailwind / TypeScript]
 
