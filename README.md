@@ -22,7 +22,7 @@ Computer Science (Sep 2016 - Jul 2017)
 ### Web
 
 
-Order System Microservices [Repo](https://github.com/popkovrs/microservices-java)  [Java + Spring Boot 3 + Kafka + MySQL + MongoDB]
+
 
 Full Stack Ticket Shop [Link](https://next-ecom-app-three.vercel.app/)/[Repo](https://github.com/popkovrs/next-ecom-app)  [Next + Stripe + TypeScript]
 
@@ -40,7 +40,7 @@ Emotion tone of book reviews [Link to repo](https://github.com/popkovrs/emotion-
 
 ### Follow me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-008037?style=for-the-badge&logo=Telegram)](https://t.me/popwebca/)
+[![Telegram](https://img.shields.io/badge/-Telegram-008037?style=for-the-badge&logo=Telegram)](https://t.me/reload_315/)
 
 ### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PopkovRS)](https://git.io/streak-stats)
